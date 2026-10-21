@@ -1,16 +1,31 @@
-## Hi there 👋
+Rajasekhar Reddy Battu
 
-<!--
-**rajasekharreddybattu/rajasekharreddybattu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Director at Syntraxs Technologies
 
-Here are some ideas to get you started:
+Building technology-driven solutions that help businesses innovate, automate, and scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+- Director at Syntraxs Technologies
+- Focused on technology strategy and business growth
+- Interested in software development, enterprise applications, and AI-powered solutions
+- Passionate about building meaningful technology partnerships
+
+Areas of Interest
+
+- Enterprise Software Solutions
+- CRM, ERP & HRMS Platforms
+- AI & Business Process Automation
+- Web and Mobile Application Development
+- Digital Transformation
+
+Organization
+
+Syntraxs Technologies
+
+Turning ideas into practical digital solutions.
+
+Connect
+
+- LinkedIn: https://www.linkedin.com/in/rajasekhar-reddy-battu-0158ba443
+- Company Website: https://syntraxs.com/
