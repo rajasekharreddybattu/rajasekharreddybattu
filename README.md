@@ -29,3 +29,4 @@ Connect
 
 - LinkedIn: https://www.linkedin.com/in/rajasekhar-reddy-battu-0158ba443
 - Company Website: https://syntraxs.com/
+- Blog : https://rajbattu73.blogspot.com/?m=1
