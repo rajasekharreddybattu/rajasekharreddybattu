@@ -1,12 +1,12 @@
 Rajasekhar Reddy Battu
 
-Director at Syntraxs Technologies
+Managing Director at Syntraxs Technologies
 
 Building technology-driven solutions that help businesses innovate, automate, and scale.
 
 About Me
 
-- Director at Syntraxs Technologies
+- Managing Director at Syntraxs Technologies
 - Focused on technology strategy and business growth
 - Interested in software development, enterprise applications, and AI-powered solutions
 - Passionate about building meaningful technology partnerships
